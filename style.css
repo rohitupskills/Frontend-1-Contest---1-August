@@ -61,7 +61,7 @@ text-decoration-line: underline;
 }
 #trivia ol{
     padding-left: 20px;
-    color: #000;
+    /* color: ; */
 font-family: Inter;
 /* font-size: 40px; */
 font-style: normal;
@@ -70,5 +70,5 @@ line-height: normal;
 }
 #trivia ol li{
     line-height: 30px;
-    font-weight: bold;
+    font-weight: 400;
 }
