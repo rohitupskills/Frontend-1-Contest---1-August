@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+}
+.blog{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 40px;
+    font-family: Inter;
+}
+.blog h1{
+    /* border-bottom: 2px solid black; */
+    font-family: Inter;
+    text-decoration: underline;
+}
+#para1{
+ margin-top: 20px;
+ font-family: Inter;
+ margin-bottom: 35px;
+}
+.btn-link{
+    color: #000;
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+
+}
+.img-heding{
+    padding-left: 40px;
+    color: #000;
+font-family: Inter;
+/* font-size: 64px; */
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+.img-beagle{
+    padding-inline: 40px;
+}
+.image a{
+    padding-left: 40px;
+}
+#trivia{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+#trivia h1{
+    text-transform: capitalize;
+    color: #000;
+font-family: Inter;
+/* font-size: 64px; */
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+#trivia ol{
+    padding-left: 20px;
+    color: #000;
+font-family: Inter;
+/* font-size: 40px; */
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#trivia ol li{
+    line-height: 30px;
+    font-weight: bold;
+}
